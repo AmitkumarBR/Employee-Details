@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.EmployeeDetails">
-        <activity android:name=".EmployeeListActivity"></activity>
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".EmployeeListActivity" />
         <activity android:name=".InputFormActivity" />
         <activity android:name=".VerifyOtpActivity" />
         <activity android:name=".SendOtpActivity">
